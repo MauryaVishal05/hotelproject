@@ -38,7 +38,7 @@ import lombok.RequiredArgsConstructor;
 
 
  /**
-  * @author Kishan Kashyap
+  * @author Vishal Maurya
   */
  @RestController
  @RequestMapping("/auth")
